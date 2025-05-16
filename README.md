@@ -1,25 +1,27 @@
-<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
+<h1 align="center">Hola, soy Simon 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argentina-74ACDF?style=for-the-badge&logo=flag&logoColor=white"/>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mí
-- 🎯 Desarrollador backend enfocado en PHP y bases de datos
+- 🎯 Desarrollador backend enfocado en PHP con Laravel y bases de datos
 - ⚙️ Uso tecnologías como Laravel, MySQL, y Git
 - 🌱 Aprendiendo nuevas herramientas y frameworks
 
 ### 🛠️ Proyectos destacados
-- 🔧 [Sistema de gestión de flotas](#)  
-- 📦 [CRUD en PHP con Bootstrap](#)
+- 🔧 [Sistema de gestión de flotas para un organismo gubernamental]  
+- 📦 [CRUD en PHP con Bootstrap]
 
 ### 📫 Contacto
-- Email: tuemail@example.com
-- LinkedIn: [TuNombre](https://linkedin.com/in/tunombre)
+- Email: simonortiz95@gmail.com
+- LinkedIn: [Simon](www.linkedin.com/in/simon-ortiz-ab466a224/)
 
 ---
 
