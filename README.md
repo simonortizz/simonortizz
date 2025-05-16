@@ -5,7 +5,8 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Argentina-74ACDF?style=for-the-badge&logo=flag&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -16,8 +17,8 @@
 - 🌱 Aprendiendo nuevas herramientas y frameworks
 
 ### 🛠️ Proyectos destacados
-- 🔧 [Sistema de gestión de flotas para un organismo gubernamental]  
-- 📦 [CRUD en PHP con Bootstrap]
+- 🔧 Sistema de gestión de flotas para un organismo gubernamental  
+- 📦 CRUD en PHP con Bootstrap
 
 ### 📫 Contacto
 - Email: simonortiz95@gmail.com
