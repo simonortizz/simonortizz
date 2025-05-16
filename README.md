@@ -21,7 +21,7 @@
 
 ### 📫 Contacto
 - Email: simonortiz95@gmail.com
-- LinkedIn: [Simon](www.linkedin.com/in/simon-ortiz-ab466a224/)
+- LinkedIn: [Simon] www.linkedin.com/in/simon-ortiz-ab466a224/
 
 ---
 
