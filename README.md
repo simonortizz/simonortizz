@@ -12,6 +12,7 @@
 ---
 
 ### 👨‍💻 Sobre mí
+Me interesa saber como funcionan las cosas y resolver problemas, por eso estudié Análisis de Sistemas.
 - 🎯 Desarrollador backend enfocado en PHP con Laravel y bases de datos
 - ⚙️ Uso tecnologías como Laravel, MySQL, y Git
 - 🌱 Aprendiendo nuevas herramientas y frameworks
