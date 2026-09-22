@@ -13,16 +13,18 @@
 
 ### 👨‍💻 Sobre mí
 Me interesa saber como funcionan las cosas y resolver problemas, por eso estudié Análisis de Sistemas.
-- 🎯 Desarrollador backend enfocado en PHP con Laravel y bases de datos
-- ⚙️ Uso tecnologías como Laravel, MySQL, y Git
+- 🎯 Desarrollador Backend y bases de datos, interiorizando en Frontend.
+- ⚙️ Uso tecnologías como Python [FastAPI], PHP [Laravel], MySQL, y Git
 - 🌱 Aprendiendo nuevas herramientas y frameworks
 
 ### 🛠️ Proyectos destacados
-- 🔧 Sistema de gestión de flotas para un organismo gubernamental  
-- 📦 CRUD en PHP con Bootstrap
+- Sistema de gestión de flotas para un organismo gubernamental  
+- Sistema de gestión de gimnasios.
+- Sistema de gestión de complejos deportivos.
+- CRUD con FastAPI y React.
 
 ### 📫 Contacto
 - Email: simonortiz95@gmail.com
-- LinkedIn: [Simon] www.linkedin.com/in/simon-ortiz-ab466a224/
+- LinkedIn: [Simon] https://www.linkedin.com/in/simonortizdev/
 
 ---
